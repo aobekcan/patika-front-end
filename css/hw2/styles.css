@@ -1,0 +1,61 @@
+.container {
+   width: 850px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.search-bar {
+   background-color: rgb(240, 234, 234);
+   padding-top: 1px;
+   margin-bottom: 2px ;
+}
+
+img {
+   margin: auto;
+   padding: auto;
+   display: block;
+   padding-bottom: 1px;
+}
+
+.cards {
+   height: 70px;
+}
+
+.card-1 {
+   background-color: rgb(126, 229, 218);
+   float: left;
+   margin-right: 0.5%;
+   width: 37%;
+   display: block;
+   height: 100%;
+   padding-top: 10px;
+}
+
+.card-2 {
+   background-color: rgb(112, 204, 194);
+   float: left;
+   margin-right: 0.5%;
+   width: 19%;
+   font-size: 13px;
+   height: 100%;
+   padding-top: 10px;
+}
+
+.card-3 {
+   background-color: rgb(98,179,170);
+   float: left;
+   width: 43%;
+   font-size: 13px;
+   height: 80px;
+}
+
+p {
+   text-align: center;
+   padding: 0px;
+   margin: 1px;
+}
+
+.footer {
+   font-size: 13px;
+   padding-top: 20px;
+}
